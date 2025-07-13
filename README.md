@@ -11,6 +11,7 @@ For this I have used the following datasets "my_datasets.zip". It consistes of t
   - train
   - val
   - test
+  - Dataset Link: https://drive.google.com/file/d/1AygR_j0jceeVO85dmVs0-BhiQjvvZglq/view?usp=sharing
  
 The dataset folder is our base dataset file which we have used for our application. It consists of 3 class folders each containing their respective images used in our project, this is then passed through our code to get cropped_dataset which crops each indivisual officer into a seperate image which is further utilised in our project. 
 
